@@ -29,7 +29,7 @@ pycodestyle==2.6.0
 pyflakes==2.2.0
 six==1.15.0
 tensorboard==1.15.0
-tensorflow==1.15.3
+https://files.pythonhosted.org/packages/02/36/9a02e27f0ec248b676a380ffe910c1858e3af3027c0d4d513dd0b56a5613/tensorflow-1.15.3-cp36-cp36m-manylinux2010_x86_64.whl
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
 toml==0.10.2
