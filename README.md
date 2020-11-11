@@ -16,7 +16,7 @@ Microsoftの機械学習アプリLobe(beta版)を用いてリンゴとみかん�
 
 ## 実行方法
 
-`git clone Lobe-Flask-AppleOrange.git`
+`git clone https://github.com/adash333/Lobe-Flask-AppleOrange.git`
 
 Run `pipenv install`
 
