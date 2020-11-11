@@ -2,6 +2,10 @@
 
 Microsoftの機械学習アプリLobe(beta版)を用いてリンゴとみかんの分類をFlaskアプリとしてHerokuにデプロイしたものです。
 
+## デプロイしたもの
+
+https://blooming-headland-09967.herokuapp.com/
+
 ## Microsoftの機械学習アプリLobe(beta版)でリンゴとみかんを分類するWEBアプリ作成を試してみる 目次
 
 [（１）LobeのインストールからTensorFlowモデルのエクスポートまで](https://i-doctor.sakura.ne.jp/font/?p=44635)
